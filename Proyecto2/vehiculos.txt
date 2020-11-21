@@ -1,0 +1,5 @@
+10,carla,2030,rosa
+20,sebas,40455,verde
+30,daniel,30540,blanco
+40,jairo,304,azul,
+50,carla,2020,rojo

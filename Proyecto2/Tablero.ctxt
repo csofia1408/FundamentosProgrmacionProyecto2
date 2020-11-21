@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=max\ min
+comment1.target=int\ seleccionNumeroAleatorio(int,\ int)
+comment2.params=numBichos
+comment2.target=Bicho[][]\ distribucionBichosTablero(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=tablero\ numBichos
+comment4.target=void\ MostrarTablero(Bicho[][],\ int)
+numComments=5
